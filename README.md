@@ -2,7 +2,7 @@
 module 7 project
 
 ## Overview
-
+In this Module 7 project, I will utilize machile learning to build a model, make predictions, visualize the model, and publish insights. 
 
 ## How to Install and Run the Project
 
