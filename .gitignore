@@ -2,4 +2,4 @@
 
 .ipynb_checkpoints/
 
-accounts.py/
+*.py
