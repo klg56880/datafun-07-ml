@@ -125,8 +125,11 @@ Section 7 - Visualizations
 Follow instruction in chapter 15.4 of the textbook to continue analysis of this data. Part 3 will utilize the linear regression estimator from the scikit-learn model to predict future high temps in January in NYC, and a combination of seaborn and matplotlib to plot this data and regression line. Include the following subsections:
 
 Section 1 - Build the Model
+
 Section 2 - Test the Model
+
 Section 3 - Predict
+
 Section 4 - Visualizations
 
 ## Complete part 4
