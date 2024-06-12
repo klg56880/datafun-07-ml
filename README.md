@@ -11,7 +11,7 @@ Created a new repo in GitHub with the name 'datafun-06-EDA'
 
 Added the default README.md 
 
-Named the script "karitaylor_eda.ipynb"
+Named the script "karitaylor_07.ipynb"
 
 ## Cloned project down to my machine
 Opened VS Code 
@@ -85,6 +85,9 @@ git push origin main
 
 ```
 
+## Work through textbook examples
+Use the jupyter notebook titled "karitaylor_07.ipynb" to work through the examples in chapter 10 and 15 of the textbook 'Intro to Python for Computer Science and Data Science'
+
 ## Create final project Jupyter Notebook
 Add a new file in your root project folder named "FirstnameLastname_ml.ipynb"
 
@@ -97,10 +100,10 @@ Level 3 markdown: dependencies section, subsections of part 1, 2, and 3
 Upload initial dependencies, and add additional dependencies to this section when prompted
 
 ## Complete part 1
-Follow instructions in chapter 10.16 of the textbook 'Intro to Python for Computer Science and Data Science' to chart a straight line of Celcius and Fahrenheit temperatures
+Follow instructions in chapter 10.16 of the textbook to chart a straight line of Celcius and Fahrenheit temperatures
 
 ## Complete part 2
-Continue to follow instructions in chapter 10.16 of the same textbook, utilizing spicy.stats module's linregress function and seaborn's regplot function to predict and plot future January high temps in NYC. Include subsections titled:
+Continue to follow instructions in chapter 10.16, utilizing spicy.stats module's linregress function and seaborn's regplot function to predict and plot future January high temps in NYC. Include subsections titled:
 
 Section 1 - Data Acquisition
 Section 2 - Data Inspection
