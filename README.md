@@ -86,14 +86,16 @@ git push origin main
 ```
 
 ## Work through textbook examples
-Use the jupyter notebook titled "karitaylor_07.ipynb" to work through the examples in chapter 10 and 15 of the textbook 'Intro to Python for Computer Science and Data Science'
+Use the jupyter notebook titled "karitaylor_07.ipynb" to work through the examples in chapters 10 and 15 of the textbook 'Intro to Python for Computer Science and Data Science'
 
 ## Create final project Jupyter Notebook
 Add a new file in your root project folder named "FirstnameLastname_ml.ipynb"
 
 ## Use approrpiate markdowns to display project title, author, introduction, and section headings
 Level 1 markdown: title
+
 Level 2 markdown: author, introduction, and part 1, 2, and 3 section headings
+
 Level 3 markdown: dependencies section, subsections of part 1, 2, and 3
 
 ## Add dependencies
@@ -106,11 +108,17 @@ Follow instructions in chapter 10.16 of the textbook to chart a straight line of
 Continue to follow instructions in chapter 10.16, utilizing spicy.stats module's linregress function and seaborn's regplot function to predict and plot future January high temps in NYC. Include subsections titled:
 
 Section 1 - Data Acquisition
+
 Section 2 - Data Inspection
+
 Section 3 - Data Cleaning
+
 Section 4 - Descriptive Statistics
+
 Section 5 - Build the Model
+
 Section 6 - Predict
+
 Section 7 - Visualizations
 
 ## Complete part 3
