@@ -84,3 +84,49 @@ Git push your initial changes to GitHub with the following command:
 git push origin main
 
 ```
+
+## Create final project Jupyter Notebook
+Add a new file in your root project folder named "FirstnameLastname_ml.ipynb"
+
+## Use approrpiate markdowns to display project title, author, introduction, and section headings
+Level 1 markdown: title
+Level 2 markdown: author, introduction, and part 1, 2, and 3 section headings
+Level 3 markdown: dependencies section, subsections of part 1, 2, and 3
+
+## Add dependencies
+Upload initial dependencies, and add additional dependencies to this section when prompted
+
+## Complete part 1
+Follow instructions in chapter 10.16 of the textbook 'Intro to Python for Computer Science and Data Science' to chart a straight line of Celcius and Fahrenheit temperatures
+
+## Complete part 2
+Continue to follow instructions in chapter 10.16 of the same textbook, utilizing spicy.stats module's linregress function and seaborn's regplot function to predict and plot future January high temps in NYC. Include subsections titled:
+
+Section 1 - Data Acquisition
+Section 2 - Data Inspection
+Section 3 - Data Cleaning
+Section 4 - Descriptive Statistics
+Section 5 - Build the Model
+Section 6 - Predict
+Section 7 - Visualizations
+
+## Complete part 3
+Follow instruction in chapter 15.4 of the textbook to continue analysis of this data. Part 3 will utilize the linear regression estimator from the scikit-learn model to predict future high temps in January in NYC, and a combination of seaborn and matplotlib to plot this data and regression line. Include the following subsections:
+
+Section 1 - Build the Model
+Section 2 - Test the Model
+Section 3 - Predict
+Section 4 - Visualizations
+
+## Complete part 4
+Provide insights into the linear regression results provided by each of the two methods. Compare and contrast the two and argue in favor of your preferred method.
+
+## Periodically add, commit, and push changes to github
+Use the following commands to add, commit, and push changes to your online repo:
+```shell
+
+git add .
+git commit -m "commit message"
+git push origin main
+
+```
